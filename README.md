@@ -35,8 +35,8 @@
 <!-- 깃허브 통계 -->
 <div align="center">
   <h2>📊 GitHub 통계</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=onedark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minhahamin&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhahamin&layout=compact&theme=onedark" alt="Top Languages" />
 </div>
 
 <br>
