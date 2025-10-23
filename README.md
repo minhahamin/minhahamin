@@ -1,7 +1,7 @@
 <!-- 헤더와 GIF 이미지 -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm90cGc1YWh1dXl3OG4zNHFhd2lhdml6ZGJreXJkd2E2bmdtOWQzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LOnt6uqjD9OexmQJRB/giphy.gif" alt="Cute Coding GIF" width="400" />
-  <h1>안녕하세요! 프론트엔드 개발자 홍민하 입니다 👋</h1>
+  <h1>안녕하세요! 개발자 홍민하 입니다 👋</h1>
   <p>배우고 경험한 지식들을 꾸준히 기록하고 공유하며 성장하고 있습니다. 항상 새로운 기술에 도전하고, 더 나은 코드를 만들기 위해 노력합니다.</p>
 </div>
 
