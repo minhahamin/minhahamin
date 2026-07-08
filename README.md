@@ -10,7 +10,7 @@ Building AI-Native Services with Spring Boot, NestJS & Python
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=minhahamin&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -97,9 +97,9 @@ Building AI-Native Services with Spring Boot, NestJS & Python
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhahamin&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhahamin&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -109,7 +109,7 @@ Building AI-Native Services with Spring Boot, NestJS & Python
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_ID&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=minhahamin&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -119,7 +119,7 @@ Building AI-Native Services with Spring Boot, NestJS & Python
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_ID&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=minhahamin&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -129,7 +129,7 @@ Building AI-Native Services with Spring Boot, NestJS & Python
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_ID&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhahamin&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -139,7 +139,7 @@ Building AI-Native Services with Spring Boot, NestJS & Python
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_ID/YOUR_GITHUB_ID/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/minhahamin/minhahamin/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -149,7 +149,7 @@ Building AI-Native Services with Spring Boot, NestJS & Python
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_ID">
+<a href="https://github.com/minhahamin">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
