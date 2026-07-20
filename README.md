@@ -209,14 +209,10 @@ AI Application 개발 역량을 키우고 있습니다.
 
 📧 Email
 
-이메일 입력
+hlkm1667haha@naver.com
 
 
 💼 Portfolio
 
-포트폴리오 링크 입력
+https://portfolio-korit.vercel.app
 
-
-📝 Blog
-
-블로그 링크 입력
