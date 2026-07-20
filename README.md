@@ -1,7 +1,7 @@
 <!-- 상단 캐릭터 GIF -->
 <div align="center">
 
-<img src="./assets/95af93cf37dc318d6fc3183a0e938e33.jpg" width="220">
+<img src="./assets/95af93cf37dc318d6fc3183a0e938e33.jpg" width="500">
 
 # 👋 안녕하세요. 개발자 홍민하입니다.
 
