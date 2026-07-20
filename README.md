@@ -198,7 +198,7 @@ AI Application 개발 역량을 키우고 있습니다.
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
 <td>
 
