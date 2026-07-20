@@ -1,174 +1,222 @@
+<!-- 상단 캐릭터 GIF -->
 <div align="center">
 
-# 👋 Hi there, I'm Minha Hong
+<img src="./assets/developer.gif" width="220">
 
-### 🚀 Backend Developer | AI Developer | Full Stack Developer
+# 👋 안녕하세요. 개발자 홍민하입니다.
 
-Building AI-Native Services with Spring Boot, NestJS & Python
+Backend 개발 경험을 기반으로  
+AI 기술을 활용한 서비스를 만드는 개발자로 성장하고 있습니다.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Developer;Spring+Boot+%7C+NestJS+%7C+Python;Always+Learning+New+Things+🚀" />
+Spring Boot 기반 웹 서비스 개발 경험과  
+LLM, RAG, AI Agent 기술을 학습하며  
+AI Application 개발 역량을 키우고 있습니다.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=minhahamin&label=Profile+Views&color=0e75b6&style=flat" />
+![Profile Views](https://komarev.com/ghpvc/?username=minhahamin)
 
 </div>
+
 
 ---
 
 # 🙋 About Me
 
-💻 2년간 백엔드 개발 경험
+안녕하세요. 문제를 해결하고 더 나은 서비스를 만드는 것을 좋아하는 개발자입니다.
 
-🌱 AI · LLM · RAG · Agent 기술 학습 중
+- 🎓 컴퓨터공학 전공
+- 💼 Full Stack Web Developer 경험
+- 🚀 Spring Boot 기반 Backend 개발
+- 🏭 MES 생산관리 시스템 개발 경험
+- 🦺 현장 안전관리 SaaS 시스템 개발 경험
+- 🤖 LLM / RAG 기반 AI 서비스 개발 학습 중
 
-⚙️ Spring Boot / NestJS 기반 서비스 개발
-
-🤖 AI와 백엔드를 결합한 서비스를 만드는 것을 좋아합니다.
-
-📚 현재 AI 엔지니어로 성장하기 위해 Python, LangChain, Vector DB 등을 공부하고 있습니다.
 
 ---
 
 # 🛠 Tech Stack
 
-### 🚀 Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nestjs,nodejs" />
-</p>
+## Backend
 
-### 🤖 AI
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-</p>
 
-### 🎨 Frontend
+## Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🗄 Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/>
-</p>
+## Database
 
-### ⚙ DevOps & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman" />
-</p>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
----
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-# 🚀 Currently Learning
 
-- 🤖 AI Agent
-- 🧠 Prompt Engineering
-- 📚 LangChain
-- 📖 RAG
-- 🗂 Vector Database
-- ☁️ AWS
-- 🐳 Docker
-- ⚡ MCP
+## AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+
+
 
 ---
 
-# 📂 Projects
+# 🚀 Projects
 
-| Project | Description | Stack |
-|----------|-------------|------|
-| 🏭 MES | 생산관리 시스템 | Java, Spring |
-| 🦺 Safety Management | 현장 안전관리 시스템 | Spring Boot |
-| 🤖 AI ERP Assistant | AI 기반 ERP Assistant | NestJS + Python |
-| 💬 AI Chatbot | RAG 기반 사내 챗봇 | LangChain |
 
----
+## 🏭 MES 생산관리 시스템
 
-# 📈 GitHub Stats
+> 제조 현장의 생산 프로세스를 관리하는 웹 기반 MES 시스템
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhahamin&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Tech Stack
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhahamin&layout=compact&theme=tokyonight&hide_border=true"/>
+- Java
+- Spring Framework
+- MyBatis
+- Oracle Database
+- JSP
 
-</div>
 
----
+### 주요 기능
 
-# 🔥 GitHub Streak
+- 생산 계획 관리
+- 작업 지시 관리
+- 재고 관리
+- 데이터 조회 및 관리
+- 사용자 권한 관리
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=minhahamin&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br>
 
----
 
-# 🏆 GitHub Trophy
+## 🦺 SafeWith 현장 안전관리 시스템
 
-<div align="center">
+> 작업자의 안전 정보를 관리하는 SaaS 기반 안전관리 플랫폼
 
-<img src="https://github-profile-trophy.vercel.app/?username=minhahamin&theme=tokyonight&no-frame=true&margin-w=15"/>
 
-</div>
+### Tech Stack
 
----
+- React
+- Node.js
+- PostgreSQL
+- REST API
 
-# 📊 Activity Graph
 
-<div align="center">
+### 주요 기능
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhahamin&theme=tokyo-night&hide_border=true"/>
+- 현장 안전 점검 관리
+- 위험 요소 관리
+- 사용자 권한 관리
+- 안전 데이터 관리
 
-</div>
 
----
 
-# 🐍 Contribution Snake
+<br>
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/minhahamin/minhahamin/output/github-contribution-grid-snake.svg" />
+## 🤖 AI Meeting Assistant
 
-</div>
+> LLM을 활용한 회의록 자동 분석 서비스
 
----
 
-# 📫 Connect
+### Tech Stack
 
-<p align="center">
+- Python
+- Streamlit
+- Ollama
+- RAG
+- Vector Database
 
-<a href="https://github.com/minhahamin">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+### 주요 기능
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+- 회의 내용 자동 요약
+- 핵심 내용 추출
+- Action Item 생성
+- 담당자 및 일정 정리
+- 이메일 초안 생성
 
-</p>
+
 
 ---
 
-<div align="center">
+# 🤖 AI Learning
 
-### ⭐ Thanks for visiting!
 
-_"Code. Learn. Build. Repeat."_ 🚀
+현재 AI Application 개발 역량 향상을 위해 학습하고 있습니다.
 
-</div>
+
+### Learning
+
+- LLM Application
+- Prompt Engineering
+- RAG Architecture
+- Vector Database
+- AI Agent
+- LangChain
+- Local LLM
+- Multimodal AI
+
+
+
+---
+
+# 📚 Development Philosophy
+
+
+> "좋은 개발자는 코드를 작성하는 사람이 아니라  
+> 문제를 해결하는 사람이라고 생각합니다."
+
+
+사용자의 문제를 이해하고  
+기술을 활용해 더 나은 해결책을 만드는 개발자가 되고 싶습니다.
+
+
+
+---
+
+# 📊 GitHub Stats
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhahamin&show_icons=true&theme=tokyonight)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhahamin&layout=compact)
+
+
+
+---
+
+# 📫 Contact
+
+
+📧 Email
+
+이메일 입력
+
+
+💼 Portfolio
+
+포트폴리오 링크 입력
+
+
+📝 Blog
+
+블로그 링크 입력
