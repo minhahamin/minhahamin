@@ -195,11 +195,11 @@ AI Application 개발 역량을 키우고 있습니다.
 # 📊 GitHub Stats
 
 
-<div align="center">
+<div align="flex">
 
-<img src="https://github-readme-stats.vercel.app/api?username=minhahamin&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=본인아이디&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhahamin&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=tokyonight)
 
 </div>
 
