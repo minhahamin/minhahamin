@@ -105,20 +105,6 @@ LLM · RAG · AI Agent로 실제로 동작하는 서비스를 만드는 개발�
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhahamin/minhahamin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhahamin/minhahamin/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/minhahamin/minhahamin/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## 🤖 Currently Learning
 
 LLM Application · Prompt Engineering · RAG Architecture · Vector Database · AI Agent (LangGraph) · Multimodal AI · TTS / STT
