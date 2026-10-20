@@ -42,7 +42,6 @@ LLM · RAG · AI Agent로 실제로 동작하는 서비스를 만드는 개발�
 
 | 프로젝트 | 설명 | 핵심 기술 | 링크 |
 | --- | --- | --- | --- |
-| 🔍 **PrSense** (피알센스) | PR이 열리면 diff를 분석해 인라인 리뷰 코멘트를 자동 작성하는 GitHub PR 리뷰 에이전트 | LangGraph · Chroma RAG · FastAPI · React · SSE | [Demo](https://prsenseapp-production.up.railway.app/) · [Repo](https://github.com/minhahamin/PrSense) |
 | 🏢 **AI Agent Company** | 목표 한 줄로 CEO · Planner · Developer · Reviewer · Reporter 5개 에이전트가 협업해 보고서를 만드는 멀티에이전트 플랫폼 | LangGraph · FastAPI · Next.js · PostgreSQL | [Demo](https://ai-agent-company-production.up.railway.app/) · [Repo](https://github.com/minhahamin/ai-agent-company) |
 | 💰 **PennyWise** (페니와이즈) | 카드 CSV · 영수증 사진을 LLM이 분류·분석해 예산 알림과 절약 팁을 제공하는 재무 에이전트 | LangGraph · FastAPI · Vision LLM · React · Recharts | [Demo](https://pennywise-production-9cf8.up.railway.app/) · [Repo](https://github.com/minhahamin/PennyWise) |
 | 🏭 **ERPilot** (SmartERP) | 자연어로 ERP 데이터를 조회하고 사내 문서를 검색하는 AI Copilot이 결합된 B2B SaaS | NestJS · Prisma · PostgreSQL · Gemini Function Calling · RBAC | [Demo](https://smart-erp-fe-production.up.railway.app) · [Repo](https://github.com/minhahamin/SmartERP) |
